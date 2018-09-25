@@ -8,4 +8,4 @@
 第四张图片：</br>
 ![](https://github.com/daishengnia/daishengniao/blob/zjjh/4.png?raw=true)</br></br>
 第五张图片：</br>
-![](hhttps://github.com/daishengnia/daishengniao/blob/zjjh/5.png?raw=true)</br></br>
+![](https://github.com/daishengnia/daishengniao/blob/zjjh/5.png?raw=true)</br></br>
